@@ -1,1 +1,2 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tsh3083)](https://solved.ac/tsh3083)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tsh04031)](https://solved.ac/tsh04031/)
+
