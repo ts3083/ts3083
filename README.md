@@ -7,7 +7,7 @@
 
 ***
 ## 포트폴리오
-[![Notion Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=Notion&link=https://lacy-cheese-85b.notion.site/38dc36dbef52444fb06684dc4f04dc47)](https://lacy-cheese-85b.notion.site/38dc36dbef52444fb06684dc4f04dc47)
+[![Notion Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=Notion&link=https://lacy-cheese-85b.notion.site/BackEnd-Developer-9bb2c8e81b2c4b74bafcd03dcd6118ec?pvs=4)](https://lacy-cheese-85b.notion.site/BackEnd-Developer-9bb2c8e81b2c4b74bafcd03dcd6118ec?pvs=4)
 
 ***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tsh04031)](https://solved.ac/tsh04031/)
